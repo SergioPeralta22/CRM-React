@@ -1,0 +1,56 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Ezio"
+    },
+    {
+      "nombre": "Sergio Webdev",
+      "empresa": "SergioWebdev",
+      "email": "asd@asd.com",
+      "telefono": "45656135854",
+      "notas": "Este es el primer cliente",
+      "id": 2
+    },
+    {
+      "nombre": "Sergio Webdev",
+      "empresa": "SergioWebdev",
+      "email": "asd@asd.com",
+      "telefono": "45656135854",
+      "notas": "Este es el primer cliente",
+      "id": 3
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "karen@karen.com",
+      "telefono": "4564646546",
+      "notas": "asd asda asd",
+      "id": 4
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "paulina@paulina.com",
+      "telefono": "4587979797",
+      "notas": "ASD DDSSasdakskmasm",
+      "id": 5
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "paulina@paulina.com",
+      "telefono": "45879456546",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "Sick Love",
+      "empresa": "RHCP",
+      "email": "Sick@love.com",
+      "telefono": "6578979796",
+      "notas": "",
+      "id": 7
+    }
+  ]
+}
